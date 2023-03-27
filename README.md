@@ -19,6 +19,12 @@ API designed to demonstrate abilities in developing a backend Java Spring servic
 
 # Design Goals/Approach
 
+- Create a standard restful API.
+- For service layer, we will need:
+  - a function that allows user to search for suburb/s via postcode.
+  - a function that allows user to search for postcode via suburb.
+  - A function that allows user to add new suburb and postcode combination.
+
 # Features
 
 # Known Issues
