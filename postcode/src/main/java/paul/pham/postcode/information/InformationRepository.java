@@ -1,5 +1,7 @@
 package paul.pham.postcode.information;
 
-public class InformationRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface InformationRepository extends JpaRepository<Information, Long>{
 
 }
