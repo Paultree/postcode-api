@@ -25,6 +25,11 @@ API designed to demonstrate abilities in developing a backend Java Spring servic
   - a function that allows user to search for postcode via suburb.
   - A function that allows user to add new suburb and postcode combination.
 
+12/04/2023
+
+- Created methods for the service layer, one for creating the postcode and suburb data, 2 for searching using field names/query and searches data via suburb name/postcode number.
+  - Added functions to the repository.
+
 # Features
 
 # Known Issues
